@@ -1,6 +1,6 @@
 {
   "name": "homebridge-daylight",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Daylight plugin for homebridge: https://github.com/nfarina/homebridge",
   "license": "MIT",
   "keywords": [
@@ -15,6 +15,7 @@
     "homebridge": ">=0.2.0"
   },
   "dependencies": {
-    "suncalc": "^1.7.0"
+    "suncalc": "^1.7.0",
+    "datejs": "*"
   }
 }
